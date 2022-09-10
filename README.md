@@ -1,22 +1,3 @@
-i
-
-
-You have a captain's log due before 2022-09-11 (in 1 day)! Log it now!
-
-0x00. Fix my code
-
-Debugging
-
- By: Guillaume
-
- Weight: 1
-
- Project will start Sep 5, 2022 6:00 AM, must end by Sep 19, 2022 6:00 AM
-
- was released at Sep 8, 2022 6:00 PM
-
- An auto review will be launched at the deadline
-
 Background Context
 
 Fix my code is a new type of project, where we’ll jump into an existing code base and fix it!
